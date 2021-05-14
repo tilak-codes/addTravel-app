@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+You can also watch live demo at: https://tilak-codes.github.io/addTravel-app/
+
 ## Available Scripts
 
 In the project directory, you can run:
