@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/addTarvel-app/static/css/main.d4f8b103.chunk.css",
+    "main.js": "/addTarvel-app/static/js/main.362308dd.chunk.js",
+    "main.js.map": "/addTarvel-app/static/js/main.362308dd.chunk.js.map",
+    "runtime-main.js": "/addTarvel-app/static/js/runtime-main.47829312.js",
+    "runtime-main.js.map": "/addTarvel-app/static/js/runtime-main.47829312.js.map",
+    "static/js/2.ec201112.chunk.js": "/addTarvel-app/static/js/2.ec201112.chunk.js",
+    "static/js/2.ec201112.chunk.js.map": "/addTarvel-app/static/js/2.ec201112.chunk.js.map",
+    "index.html": "/addTarvel-app/index.html",
+    "static/css/main.d4f8b103.chunk.css.map": "/addTarvel-app/static/css/main.d4f8b103.chunk.css.map",
+    "static/js/2.ec201112.chunk.js.LICENSE.txt": "/addTarvel-app/static/js/2.ec201112.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/addTarvel-app/static/media/bg.2f392347.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47829312.js",
+    "static/js/2.ec201112.chunk.js",
+    "static/css/main.d4f8b103.chunk.css",
+    "static/js/main.362308dd.chunk.js"
+  ]
+}
